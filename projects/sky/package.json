@@ -33,7 +33,7 @@
 	},
 	"dependencies": {
 		"@heyanon/sdk": "^2.0.2",
-		"vitest": "^2.1.8",
+		"vitest": "^3.2.6",
 		"viem": "2.22.9"
 	}
 }
